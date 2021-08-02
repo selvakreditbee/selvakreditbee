@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @selvakreditbee
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Backend Development [Flask, Django]
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Any Backend Development Team with python
 - 📫 How to reach me selvakumar15it@gmail.com/9345343721
 
 <!---
